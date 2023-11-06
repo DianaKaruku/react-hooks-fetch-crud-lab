@@ -12,6 +12,8 @@ function App() {
       {page === "Form" ? <QuestionForm /> : <QuestionList />}
     </main>
   );
+
 }
+
 
 export default App;
